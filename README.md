@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ChrisDeHart
+- 👀 I’m interested in data science and machine learning
